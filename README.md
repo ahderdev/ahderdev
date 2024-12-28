@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3>Hello, this is Esther Pui˚ ༘ ೀ⋆｡˚</h3>
+<p>
+  <a href="https://www.linkedin.com/in/esther-pui/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-F5C3BD?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+   <a href="https://www.x.com/ahderdev">
+    <img src="https://img.shields.io/badge/X-Profile-F5C3BD?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+   <a href="https://www.instagram.com/ahderdev">
+    <img src="https://img.shields.io/badge/Instagram-Profile-F5C3BD?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-<!--
-**ahderdev/ahderdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>────୨ৎ────</p>
 
-Here are some ideas to get you started:
+I am a 🌷***full-stack web developer*** with 2 years of experience, residing in Malaysia 🇲🇾.  
+Honing my skills to become more powerful, particularly in **⚛️ React** and **🕊️ Laravel**.  
+In my free time, I love *creative coding & 3D design*,  🧸 experimenting and messing around with ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In 2025, I'd like to be **more active** in this community and **create more projects**! .˚🦋༘⋆  
+Stay tuned for more creations!
