@@ -15,7 +15,7 @@
 
 A 🌷***full-stack web developer***, residing in KL, Malaysia 🇲🇾.  
 My go-to tools ⟢ **⚛️ React** and **🕊️ Laravel**.  
-In my free time, I also love doing *creative coding & 3D design* 🧸.
+In my free time, I also love doing *creative coding & digital painting* 🧸.
 
 In 2025, I'd like to be **more active** in this community and **create more projects**! .˚🦋༘⋆  
 Stay tuned for more creations!
