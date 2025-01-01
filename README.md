@@ -13,9 +13,9 @@
 
 <p>────୨ৎ────</p>
 
-I am a 🌷***full-stack web developer*** with 2 years of experience, residing in Malaysia 🇲🇾.  
-Honing my skills to become more powerful, particularly in **⚛️ React** and **🕊️ Laravel**.  
-In my free time, I love doing *creative coding & 3D design*,  🧸 experimenting and messing around with ideas.
+A 🌷***full-stack web developer***, residing in KL, Malaysia 🇲🇾.  
+My go-to tools ⟢ **⚛️ React** and **🕊️ Laravel**.  
+In my free time, I also love doing *creative coding & 3D design* 🧸.
 
 In 2025, I'd like to be **more active** in this community and **create more projects**! .˚🦋༘⋆  
 Stay tuned for more creations!
