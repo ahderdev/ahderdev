@@ -1,8 +1,13 @@
-<h3>Hello,I am Esther˚ ༘ ೀ⋆｡˚</h3>
+<h3>Hello, I am Esther˚ ༘ ೀ⋆｡˚</h3>
+<p>────୨ৎ────</p>
+A 🌷<strong><em>full-stack web developer</em></strong>, residing in KL, Malaysia 🇲🇾.<br>
+My go-to tools ⟢ <strong>⚛️ React</strong> and <strong>🕊️ Laravel</strong>.  <br>
+In my free time, I also love doing <em>creative coding & digital painting</em> 🧸.<br><br>
+
+In 2025, I'd like to be <strong>more active</strong> in this community and <strong>create more projects</strong>! .˚🦋༘⋆<br>
+I show my works here and on Instagram, so check them out! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧<br>
+
 <p>
-  <a href="https://www.linkedin.com/in/esther-pui/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-F5C3BD?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
    <a href="https://www.x.com/ahderdev">
     <img src="https://img.shields.io/badge/X-Profile-F5C3BD?style=for-the-badge&logo=x&logoColor=white">
   </a>
@@ -10,12 +15,3 @@
     <img src="https://img.shields.io/badge/Instagram-Profile-F5C3BD?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
-
-<p>────୨ৎ────</p>
-
-A 🌷***full-stack web developer***, residing in KL, Malaysia 🇲🇾.  
-My go-to tools ⟢ **⚛️ React** and **🕊️ Laravel**.  
-In my free time, I also love doing *creative coding & digital painting* 🧸.
-
-In 2025, I'd like to be **more active** in this community and **create more projects**! .˚🦋༘⋆  
-Stay tuned for more creations!
